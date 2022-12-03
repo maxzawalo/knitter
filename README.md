@@ -31,7 +31,14 @@
 **dot schem.dot -Tjpg -o schem.jpg**
 
 ### Пример
-![](schem.jpg)
-Было
-Стало
-![](schem_new.jpg)
+![](schem.jpg)<br />
+
+Было  &uarr;<br />
+Стало &darr;<br />
+
+------------
+![](schem_new.jpg)<br />
+
+В файле [schem_synonyms.jpg](schem_synonyms.jpg "schem_synonyms.jpg") добавляются синонимы для формирования функций-преобразователей. В каждой строчке по два через дефис. 
+Результат: 
+![](schem_synonyms.jpg)
