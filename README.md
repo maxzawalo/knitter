@@ -56,4 +56,7 @@
 Если какие-то функции можно/нужно оптимизировать, то их соединения надо удалить из списка.<br />
 [Подробнее тут](https://dzen.ru/media/maxzawalo/sshivka-zamorojennyi-genom-65829cfc910b21212106979a)
 
+### Экспорт и импорт схемы в формат drawio
+[Подробнее тут](https://dzen.ru/media/maxzawalo/sshivka-shema-v-formate-drawio-65849bcfaa8dfa366da410a4)
+
 ### [Поддержать проект](https://yoomoney.ru/to/410011136228964)
