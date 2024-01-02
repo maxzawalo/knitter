@@ -61,4 +61,7 @@
 ### Экспорт и импорт схемы в формат drawio
 [Подробнее тут](https://dzen.ru/media/maxzawalo/sshivka-shema-v-formate-drawio-65849bcfaa8dfa366da410a4)
 
+### Генераторы функций
+[Подробнее тут](https://dzen.ru/media/maxzawalo/sshivka-generatory-funkcii-6591bb5dba630d0653dd05cf)
+
 ### [Поддержать проект](https://yoomoney.ru/to/410011136228964)

@@ -1,0 +1,18 @@
+digraph G {
+rankdir=LR
+splines=ortho
+edge[dir=none  fontname="times italic" fontsize=14 minlen=1 labeldistance=1 labelangle=10 label2node=true labelOverlay=true labelOverlay="78%"];
+{
+"Диодный мост" [shape=box]
+"Трансформатор понижающий 1" [shape=box]
+"Инвертор" [shape=box]
+"АКБ" [shape=box]
+Target1 [fixedsize=true height=0.1 width=0.1 label=""]
+}
+"АКБ"->"Инвертор" [label="постоянное напряжение_11.5-14.4вольт|
+постоянное напряжение_вольт12"  fontcolor=blue len=f];
+"Диодный мост"->"Target1" [label="постоянное напряжение_вольт5|
+постоянное напряжение_4-6вольт"  fontcolor=blue len=f];
+"Инвертор"->"Трансформатор понижающий 1" [label="переменное напряжение_220вольт"  fontcolor=blue len=f];
+"Трансформатор понижающий 1"->"Диодный мост" [label="переменное напряжение_5вольт"  fontcolor=blue len=f];
+}
