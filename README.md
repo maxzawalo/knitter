@@ -26,7 +26,7 @@
 Функции задаются согласно концепции «Семантический ТРИЗ», т.е. входные и выходные параметры – [веполи](https://dic.academic.ru/dic.nsf/ruwiki/837716 "веполи").
 
 ### Запуск
-**java – jar [knitter_demo.jar](bin/knitter_demo.jar)**
+**java -jar [knitter_demo.jar](bin/knitter_demo.jar)**
 
 После работы программы получаем схему в формате [Dot](https://graphviz.org/download/ "graphviz.org"), которая преобразуется в картинку в формате JPG. Если не сработало (jar сделан для Windows), то запустите следующую команду: 
 
@@ -65,7 +65,7 @@
 ### Визуальный web-интерфейс (UI)
 ![](knitter.ui.png)
 #### Запуск
-**java – jar [knitter.ui.jar](knitter.ui.jar)**
+**[start.cmd](start.cmd)<br />или<br />java -jar [knitter.ui.jar](knitter.ui.jar)**
 
 [Подробнее тут](https://dzen.ru/a/ZaggU81dM0_3w754)
 
