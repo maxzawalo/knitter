@@ -63,7 +63,7 @@
 [Подробнее тут](https://dzen.ru/a/ZZG7XbpjDQZT3QXP)
 
 ### Визуальный web-интерфейс (UI)
-![](knitter.ui.png)
+![](knitter.ui.jpg)
 #### Запуск
 **[start.cmd](start.cmd)<br />или<br />java -jar [knitter.ui.jar](knitter.ui.jar)**
 
